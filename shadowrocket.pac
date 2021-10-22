@@ -140,4 +140,5 @@ localhost = 127.0.0.1
 [URL Rewrite]
 ^http://(www.)?g.cn https://www.google.com 302
 ^http://(www.)?google.cn https://www.google.com 302
+^http://translate.google.cn https://translate.google.com 302
 ^http://reject.example.com reject 
