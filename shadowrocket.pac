@@ -8,6 +8,7 @@ ipv6 = false
 
 [Rule]
 DOMAIN-SUFFIX,google.cn,DIRECT
+DOMAIN-SUFFIX,translate.google.cn,PROXY
 DOMAIN-SUFFIX,goodread.com,DIRECT
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,facebook,PROXY
