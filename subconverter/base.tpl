@@ -1,4 +1,4 @@
-{% if request.target == "myclash" %}
+{% if request.target == "clash" or request.target == "clashr" %}
 
 mixed-port: 7890
 socks-port: 7891
